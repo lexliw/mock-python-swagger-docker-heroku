@@ -28,7 +28,7 @@ heroku create mock-python-swagger
 ```
 git push heroku master
 ```
-4. abrir no terminal
+4. abrir no navegador 
 ```
 https://mock-python-swagger.herokuapp.com/
 ```
