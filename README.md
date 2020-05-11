@@ -20,3 +20,11 @@ http://0.0.0.0:5001/
 ```
 heroku login
 ```
+2. criar a aplicação no heroku
+```
+heroku create mock-python-swagger
+```
+3. fazer o deploy no heroku
+```
+git push heroku master
+```
