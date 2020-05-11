@@ -7,7 +7,7 @@ docker build --tag lab033/mock .
 
 2. Subir imagem docker
 ```
-sudo docker run -p5001:5000 lab033/mock
+sudo docker run -p5001:8081 lab033/mock
 ```
 
 3. Abra no seu navegador
